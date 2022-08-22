@@ -1,0 +1,1215 @@
+.img{
+    width: 100%;
+    height: 550px;
+    position: relative;
+    opacity: 1;
+   }
+   
+   .some{
+   position: absolute;
+   top: 50px;
+   left: 100px;
+   color: white;
+   font-size: 18px;
+   }
+   
+   .some:hover{
+    opacity: 0.8;
+   }
+   
+   .name{
+    position: absolute;
+    top: 70px;
+    left: 150px;
+    background: blue;
+    color: white;
+    font-size: 40px;
+    border-radius: 15px 15px;
+    font-family: cursive;
+   }
+   
+   .text{
+    position: absolute;
+    top: 280px;
+    left: 600px;
+    color: white;
+    font-size: 20px;
+    font-family: arial;
+   }
+   
+   .text2{
+    position: absolute;
+    top: 320px;
+    left: 530px;
+    color: white;
+    font-size: 50px;
+    font-family: arial;
+   }
+
+   .menu{
+    position: absolute;
+    top: 140px;
+    left: 550px;
+    color: white;
+    font-size: 18px;
+    transition: 0.2s;
+    text-decoration: none;
+   }
+   
+   .menu2{
+   position: absolute;
+   top: 140px;
+   left: 650px;
+   color: white;
+   font-size: 18px;
+   transition: 0.2s;
+   text-decoration: none;
+   }
+
+   .car{
+    position: absolute;
+    top: 160px;
+    left: 590px;
+    font-size: 18px;
+    transition: 0.2s;
+    width: 150px;
+    height: 350px;
+    background: white;
+    display: none;
+    border-radius: 5px;
+    }
+    
+    .car > a{
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-family: fantasy;
+    line-height: 40px;
+    opacity: 0.7;
+    }
+    
+    .car > a:hover{
+    color: blue;
+    }
+   
+   .menu3{
+   position: absolute;
+   top: 140px;
+   left: 760px;
+   color: white;
+   font-size: 18px;
+   text-decoration: none;
+   }
+
+   .cav{
+    position: absolute;
+    top: 160px;
+    left: 645px;
+    font-size: 18px;
+    transition: 0.2s;
+    width: 260px;
+    height: 300px;
+    background: white;
+    display: none;
+    border-radius: 5px;
+    }
+    
+    .cav > a{
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-family: fantasy;
+    line-height: 30px;
+    opacity: 0.7;
+    display: block;
+    max-width: 220px;
+    }
+    
+    .cav > a:hover{
+    color: blue;
+    }
+   
+   .menu4{
+   position: absolute;
+   top: 140px;
+   left: 925px;
+   color: white;
+   font-size: 18px;
+   text-decoration: none;
+   }
+
+   .cap{
+    position: absolute;
+    top: 160px;
+    left: 750px;
+    font-size: 18px;
+    transition: 0.2s;
+    width: 260px;
+    height: 225px;
+    background: white;
+    display: none;
+    border-radius: 5px;
+    }
+    
+    .cap > a{
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-family: fantasy;
+    line-height: 30px;
+    opacity: 0.7;
+    display: block;
+    max-width: 240px;
+    }
+    
+    .cap > a:hover{
+    color: blue;
+    }
+   
+   .menu5{
+   position: absolute;
+   top: 140px;
+   left: 1020px;
+   color: white;
+   font-size: 18px;
+   text-decoration: none;
+   }
+
+   .can{
+    position: absolute;
+    top: 160px;
+    left: 980px;
+    font-size: 18px;
+    transition: 0.2s;
+    width: 270px;
+    height: 310px;
+    background: white;
+    display: none;
+    border-radius: 5px;
+    }
+    
+    .can > a{
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-family: fantasy;
+    line-height: 30px;
+    opacity: 0.7;
+    display: block;
+    max-width: 240px;
+    }
+    
+    .can > a:hover{
+    color: blue;
+    }
+   
+   .menu6{
+   position: absolute;
+   top: 140px;
+   left: 1270px;
+   color: white;
+   font-size: 18px;
+   text-decoration: none;
+   }
+   
+   .caf{
+    position: absolute;
+    top: 160px;
+    left: 1090px;
+    font-size: 18px;
+    transition: 0.2s;
+    width: 270px;
+    height: 160px;
+    background: white;
+    display: none;
+    border-radius: 5px;
+    }
+    
+    .caf > a{
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-family: fantasy;
+    line-height: 30px;
+    opacity: 0.7;
+    display: block;
+    max-width: 240px;
+    }
+    
+    .caf > a:hover{
+    color: blue;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.scroll:hover{
+    opacity: 0.7;
+}
+
+.menus{
+   position: absolute;
+   top: 30px;
+   left: 400px;
+   color: black;
+   font-size: 18px;
+   transition: 0.2s;
+   text-decoration: none;
+   }
+
+   .cars{
+    position: absolute;
+    top: 52px;
+    left: 340px;
+    font-size: 18px;
+    transition: 0.2s;
+    width: 150px;
+    height: 350px;
+    background: white;
+    display: none;
+    border-radius: 5px;
+    border: 1px solid black;
+    }
+    
+    .cars > a{
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-family: fantasy;
+    line-height: 40px;
+    opacity: 0.7;
+    }
+    
+    .cars > a:hover{
+    color: blue;
+    }
+
+    .menus:hover{
+        opacity: 0.7;
+    }
+
+    .menus2{
+        position: absolute;
+        top: 31px;
+        left: 520px;
+        color: black;
+        font-size: 18px;
+        text-decoration: none;
+        }
+     
+        .cavs{
+         position: absolute;
+         top: 52px;
+         left: 410px;
+         font-size: 18px;
+         transition: 0.2s;
+         width: 260px;
+         height: 300px;
+         background: white;
+         display: none;
+         border-radius: 5px;
+         border: 1px solid black;
+         }
+         
+         .cavs > a{
+         text-decoration: none;
+         color: black;
+         margin-left: 10px;
+         margin-top: 10px;
+         font-family: fantasy;
+         line-height: 30px;
+         opacity: 0.7;
+         display: block;
+         max-width: 220px;
+         }
+         
+         .cavs > a:hover{
+         color: blue;
+         }
+
+         .menus2:hover{
+            opacity: 0.7;
+         }
+
+         .menus3{
+            position: absolute;
+            top: 31px;
+            left: 700px;
+            color: black;
+            font-size: 18px;
+            text-decoration: none;
+            }
+         
+            .caps{
+             position: absolute;
+             top: 52px;
+             left: 520px;
+             font-size: 18px;
+             transition: 0.2s;
+             width: 260px;
+             height: 225px;
+             background: white;
+             display: none;
+             border-radius: 5px;
+             border: 1px solid black;
+             }
+             
+             .caps > a{
+             text-decoration: none;
+             color: black;
+             margin-left: 10px;
+             margin-top: 10px;
+             font-family: fantasy;
+             line-height: 30px;
+             opacity: 0.7;
+             display: block;
+             max-width: 240px;
+             }
+             
+             .caps > a:hover{
+             color: blue;
+             }
+
+             .menus3:hover{
+                opacity: 0.7;
+             }
+
+             .menus4{
+                position: absolute;
+                top: 31px;
+                left: 810px;
+                color: black;
+                font-size: 18px;
+                text-decoration: none;
+                }
+             
+                .cans{
+                 position: absolute;
+                 top: 52px;
+                 left: 780px;
+                 font-size: 18px;
+                 transition: 0.2s;
+                 width: 270px;
+                 height: 310px;
+                 background: white;
+                 display: none;
+                 border-radius: 5px;
+                 border: 1px solid black;
+                 }
+                 
+                 .cans > a{
+                 text-decoration: none;
+                 color: black;
+                 margin-left: 10px;
+                 margin-top: 10px;
+                 font-family: fantasy;
+                 line-height: 30px;
+                 opacity: 0.7;
+                 display: block;
+                 max-width: 240px;
+                 }
+                 
+                 .cans > a:hover{
+                 color: blue;
+                 }
+
+                 .menus4:hover{
+                    opacity: 0.7;
+                 }
+
+                 .menus5{
+                    position: absolute;
+                    top: 31px;
+                    left: 1075px;
+                    color: black;
+                    font-size: 18px;
+                    text-decoration: none;
+                    }
+                    
+                    .cafs{
+                     position: absolute;
+                     top: 52px;
+                     left: 895px;
+                     font-size: 18px;
+                     transition: 0.2s;
+                     width: 270px;
+                     height: 160px;
+                     background: white;
+                     display: none;
+                     border-radius: 5px;
+                     border: 1px solid black;
+                     }
+                     
+                     .cafs > a{
+                     text-decoration: none;
+                     color: black;
+                     margin-left: 10px;
+                     margin-top: 10px;
+                     font-family: fantasy;
+                     line-height: 30px;
+                     opacity: 0.7;
+                     display: block;
+                     max-width: 240px;
+                     }
+                     
+                     .cafs > a:hover{
+                     color: blue;
+                     }
+
+                     .menus5:hover{
+                        opacity: 0.7;
+                     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   .inf{
+    text-align: justify;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-right: 200px;
+    line-height: 25px;
+   }
+   
+   .list{
+    font-size: 20px;
+    margin-left: 260px;
+    margin-right: 200px;
+   }
+   
+   li{
+    margin-left: 280px;
+    margin-right: 200px;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 25px;
+   }
+   
+   ul{
+    background: rgb(240, 240, 240);
+   }
+   
+   .img2{
+    width: 500px;
+    height: 500px;
+    float: left;
+    margin-right: 50px;
+    margin-left: 200px;
+    margin-top: 5px;
+   }
+   
+   .imgtext{
+   font-size: 20px;
+   line-height: 25px;
+   }
+   
+   b{
+    font-size: 30px;
+   }
+   
+   .new{
+    max-width: 1100px;
+    border: 0.5px solid rgb(240, 240, 240);
+   }
+   
+   .img3{
+    width: 500px;
+    height: 550px;
+    float: right;
+    margin-left: 50px;
+   }
+   
+   .new2{
+    max-width: 1100px;
+    margin-top: 200px;
+    border: 0.5px solid rgb(240, 240, 240);
+   }
+   
+   .imgtext2{
+    font-size: 20px;
+    text-align: justify;
+    line-height: 25px;
+    margin-left: 200px;
+   }
+   
+   .lasttext{
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 200px;
+    text-align: justify;
+    margin-left: 350px;
+    margin-right: 350px;
+   }
+   
+   .new3{
+    background: rgb(240, 240, 240);
+   }
+   
+   .back{
+    width: 100%;
+    height: 900px;
+    background: rgb(46, 60, 76);
+   }
+   
+   .rgb{
+    padding-top: 80px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    line-height: 18px;
+    
+   }
+   
+   .lamp{
+    width: 80px;
+    height: 80px;
+    border-radius: 500px;
+    margin-top: 100px;
+    margin-left: 382px;
+    position: relative;
+   }
+   
+   .lampp{
+   color: white;
+   font-size: 20px;
+   max-width: 580px;
+   margin-left: 145px;
+   text-align: center;
+   line-height: 25px;
+   }
+   
+   .star{
+    width: 80px;
+    height: 80px;
+    border-radius: 500px ;
+    margin-left: 380px;
+    margin-top: 50px;
+    position: absolute;
+    display: inline;
+   }
+   
+   .starp{
+   color: white;
+   max-width: 520px;
+   font-size: 20px;
+   text-align: center;
+   margin-left: 150px;
+   line-height: 25px;
+   position: relative;
+   }
+   
+   .sign{
+    width: 80px;
+    height: 80px;
+    border-radius: 500px;
+    margin-left: 1050px;
+    display: inline;
+    margin-top: 58px;
+    position: absolute;
+   }
+   
+   .signp{
+   color: white;
+   max-width: 500px;
+   font-size: 20px;
+   text-align: center;
+   margin-left: 850px;
+   line-height: 25px;
+   position: absolute;
+   margin-top: 200px;
+   }
+   
+   .arrow{
+   width: 80px;
+   height: 80px;
+   border-radius: 500px;
+   position: absolute;
+   margin-left: 1054px;
+   margin-top: 110px;
+   }
+   
+   .arrowp{
+   color: white;
+   max-width: 510px;
+   font-size: 20px;
+   text-align: center;
+   line-height: 25px;
+   position: absolute;
+   margin-top: 250px;
+   margin-left: 840px;
+   }
+   
+   .blue{
+   width: 100%;
+   height: 1000px;
+   background: rgb(0, 100, 255);
+   }
+   
+   .start{
+   color: white;
+   font-size: 20px;
+   text-align: center;
+   font-family: arial;
+   position: absolute;
+   margin-left: 350px;
+   max-width: 800px;
+   margin-top: 100px;
+   line-height: 25px;
+   }
+   
+   .anun{
+   color: white;
+   margin-top: 250px;
+   margin-left: 300px;
+   font-family: arial;
+   position: absolute;
+   }
+   
+   .anuntype{
+   width: 400px;
+   height: 40px;
+   margin-top: 280px;
+   margin-left: 300px;
+   position: absolute;
+   font-size: 18px;
+   }
+   
+   .el{
+   color: white;
+   font-family: arial;
+   margin-left: 300px;
+   margin-top: 350px;
+   position: absolute;
+   }
+   
+   .eltype{
+   width: 400px;
+   height: 40px;
+   margin-left: 300px;
+   margin-top: 380px;
+   position: absolute;
+   font-size: 18px;
+   }
+   
+   .inter{
+   font-family: arial;
+   color: white;
+   position: absolute;
+   margin-top: 450px;
+   margin-left: 300px;
+   }
+   
+   .intertype{
+   width: 410px;
+   height: 50px;
+   margin-left: 300px;
+   margin-top: 480px;
+   position: absolute;
+   font-size: 18px;
+   font-family: arial;
+   }
+   
+   .intertype>option{
+   font-family: arial;
+   font-size: 18px;
+   }
+   
+   .azganun{
+   color: white;
+   margin-top: 250px;
+   margin-left: 775px;
+   font-family: arial;
+   position: absolute;
+   }
+   
+   .azganuntype{
+   width: 400px;
+   height: 40px;
+   margin-left: 775px;
+   margin-top: 280px;
+   position: absolute;
+   font-size: 18px;
+   }
+   
+   .number{
+   color: white;
+   margin-top: 350px;
+   margin-left: 775px;
+   position: absolute;
+   font-family: arial;
+   }
+   
+   .numbertype{
+   width: 400px;
+   height: 40px;
+   margin-left: 775px;
+   margin-top: 380px;
+   position: absolute;
+   font-size: 18px;
+   }
+   
+   .lezu{
+   position: absolute;
+   color: white;
+   margin-left: 775px;
+   margin-top: 453px;
+   font-family: arial;
+   }
+   
+   .xtype{
+   width: 410px;
+   height: 50px;
+   margin-left: 775px;
+   margin-top: 480px;
+   font-size: 18px;
+   font-family: arial;
+   position: absolute;
+   }
+   
+   .xtype>option{
+   font-family: arial;
+   font-size: 18px;
+   }
+   
+   .message{
+   color: white;
+   font-family: arial;
+   position: absolute;
+   margin-top: 560px;
+   margin-left: 300px;
+   }
+   
+   .messagetype{
+   width: 880px;
+   height: 200px;
+   margin-top: 590px;
+   margin-left: 300px;
+   position: absolute;
+   font-size: 18px;
+   }
+   
+   .ptichka{
+    width: 25px;
+    height: 25px;
+    margin-top: 820px;
+    margin-left: 300px;
+    border-radius: 500px;
+   }
+   
+   .sometext{
+   color: white;
+   font-family: arial;
+   max-width: 840px;
+   position: absolute;
+   margin-top: 820px;
+   margin-left: 20px;
+   text-align: justify;
+   }
+   
+   button{
+   width: 150px;
+   height: 50px;
+   background: rgb(0, 100, 255);
+   border: 2px solid white;
+   color: white;
+   position: absolute;
+   margin-top: 900px;
+   margin-left: 350px;
+   font-family: arial;
+   font-size: 17px;
+   transition: 0.7s;
+   }
+   
+   button:hover{
+   background: rgb(0, 150, 255);
+   }
+   
+   .end{
+   width: 100%;
+   height: 300px;
+   background: white;
+   }
+   
+   .low{
+   font-family: arial;
+   margin-left: 150px;
+   margin-top: 20px;
+   position: absolute;
+   }
+   
+   .lowpart{
+    color: black;
+    opacity: 0.7;
+   }
+   
+   .lowdiv{
+    width: 100%;
+    height: 50px;
+    background: rgb(240, 240, 240);
+    position: relative;
+   }
+   
+   .data{
+   position: absolute;
+   margin-top: 20px;
+   margin-left: 850px;
+   font-family: arial;
+   color: black;
+   text-decoration: none;
+   }
+   
+   .stamp{
+   position: absolute;
+   font-family: arial;
+   margin-left: 1100px;
+   margin-top: 20px;
+   color: black;
+   text-decoration: none;
+   }
+   
+   .data:hover{
+   color: blue;
+   cursor: pointer;
+   }
+   
+   .stamp:hover{
+   color: blue;
+   cursor: pointer;
+   }
+   
+   .berlitz{
+    color: blue;
+    position: absolute;
+    margin-left: 130px;
+    margin-top: 60px;
+    font-family: fantasy;
+    font-size: 30px;
+   }
+   
+   .face{
+   width: 40px;
+   height: 40px;
+   position: absolute;
+   margin-left: 115px;
+   margin-top: 120px;
+   }
+   
+   .inst{
+   width: 28px;
+   height: 29px;
+   position: absolute;
+   margin-left: 160px;
+   margin-top: 125px;
+   }
+   
+   .in{
+   width: 40px;
+   height: 40px;
+   position: absolute;
+   margin-left: 190px;
+   margin-top: 120px;
+   }
+   
+   .find{
+   margin-left: 370px;
+   margin-top: 70px;
+   position: absolute;
+   font-family: arial;
+   }
+   
+   .arcanc{
+   margin-left: 370px;
+   margin-top: 100px;
+   position: absolute;
+   font-family: arial;
+   font-size: 14px;
+   color: black;
+   text-decoration: none;
+   }
+   
+   .class{
+   margin-left: 370px;
+   margin-top: 125px;
+   position: absolute;
+   font-family: arial;
+   font-size: 14px;
+   color: black;
+   text-decoration: none;
+   }
+   
+   .children{
+   margin-left: 370px;
+   margin-top: 150px;
+   position: absolute;
+   font-family: arial;
+   font-size: 14px;
+   color: black;
+   text-decoration: none;
+   }
+   
+   .biznes{
+   margin-left: 370px;
+   margin-top: 175px;
+   position: absolute;
+   font-family: arial;
+   font-size: 14px;
+   color: black;
+   text-decoration: none;
+   }
+   
+   .quality{
+   margin-left: 370px;
+   margin-top: 200px;
+   position: absolute;
+   font-family: arial;
+   font-size: 14px;
+   color: black;
+   text-decoration: none;
+   }
+   
+   .arcanc:hover{
+   color: blue;
+   cursor: pointer;
+   }
+   
+   .class:hover{
+   color: blue;
+   cursor: pointer;
+   }
+   
+   .children:hover{
+   color: blue;
+   cursor: pointer;
+   }
+   
+   .biznes:hover{
+   color: blue;
+   cursor: pointer;
+   }
+   
+   .quality:hover{
+   color: blue;
+   cursor: pointer;
+   }
+   
+   .about{
+   position: absolute;
+   margin-left: 820px;
+   margin-top: 70px;
+   font-family: arial;
+   }
+   
+   .babout{
+   position: absolute;
+   margin-left: 820px;
+   margin-top: 100px;
+   font-family: arial;
+   font-size: 14px;
+   color: black;
+   text-decoration: none;
+   }
+   
+   .method{
+   position: absolute;
+   margin-left: 820px;
+   margin-top: 125px;
+   font-family: arial;
+   font-size: 14px;
+   color: black;
+   text-decoration: none;
+   }
+   
+   .learn{
+   position: absolute;
+   margin-left: 820px;
+   margin-top: 150px;
+   font-family: arial;
+   font-size: 14px;
+   color: black;
+   text-decoration: none;
+   }
+   
+   .level{
+   position: absolute;
+   margin-left: 820px;
+   margin-top: 175px;
+   font-family: arial;
+   font-size: 14px;
+   color: black;
+   text-decoration: none;
+   }
+   
+   .why{
+   position: absolute;
+   margin-left: 820px;
+   margin-top: 200px;
+   font-family: arial;
+   font-size: 14px;
+   color: black;
+   text-decoration: none;
+   }
+   
+   .babout:hover{
+   color: blue;
+   cursor: pointer;
+   }
+   
+   .method:hover{
+   color: blue;
+   cursor: pointer;
+   }
+   
+   .learn:hover{
+   color: blue;
+   cursor: pointer;
+   }
+   
+   .level:hover{
+   color: blue;
+   cursor: pointer;
+   }
+   
+   .why:hover{
+   color: blue;
+   cursor: pointer;
+   }
+   
+   .connection{
+   margin-left: 1140px;
+   margin-top: 70px;
+   position: absolute;
+   font-family: arial;
+   }
+   
+   .with{
+   position: absolute;
+   margin-left: 1140px;
+   margin-top: 100px;
+   font-family: arial;
+   font-size: 14px;
+   color: black;
+   text-decoration: none;
+   }
+   
+   .area{
+   position: absolute;
+   margin-left: 1140px;
+   margin-top: 125px;
+   font-family: arial;
+   font-size: 14px;
+   color: black;
+   text-decoration: none;
+   }
+   
+   .career{
+   position: absolute;
+   margin-left: 1140px;
+   margin-top: 150px;
+   font-family: arial;
+   font-size: 14px;
+   color: black;
+   text-decoration: none;
+   }
+   
+   .world{
+   position: absolute;
+   margin-left: 1140px;
+   margin-top: 175px;
+   font-family: arial;
+   font-size: 14px;
+   color: black;
+   text-decoration: none;
+   }
+   
+   .worldpart{
+   opacity: 0.5;
+   }
+   
+   .with:hover{
+   color: blue;
+   cursor: pointer;
+   }
+   
+   .area:hover{
+   color: blue;
+   cursor: pointer;
+   }
+   
+   .career:hover{
+   color: blue;
+   cursor: pointer;
+   }
+   
+   .world:hover{
+   color: blue;
+   cursor: pointer;
+   }
+   
+   .menu:hover{
+   cursor: pointer;
+   opacity: 0.7;
+   }
+   
+   .menu2:hover{
+   cursor: pointer;
+   opacity: 0.7;
+   }
+   
+   .menu3:hover{
+   cursor: pointer;
+   opacity: 0.7;
+   }
+   
+   .menu4:hover{
+   cursor: pointer;
+   opacity: 0.7;
+   }
+   
+   .menu5:hover{
+   cursor: pointer;
+   opacity: 0.7;
+   }
+   
+   .menu6:hover{
+   cursor: pointer;
+   opacity: 0.7;
+   }
